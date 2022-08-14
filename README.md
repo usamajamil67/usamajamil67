@@ -29,5 +29,18 @@
 <a href="vhttps://www.youtube.com/channel/UC5JhPmLRrzfNA4ecDPxRQvg target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
 <a href="https://www.instagram.com/usamajayyy/?hl=en" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 
-  
+## Technologies⚙️
+
+### Languages✍🏼
+
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/> 
+
+
+  ## Stats📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamajamil67&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="usamajamil67" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=usamajamil67&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="usamajamil67" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=usamajamil67&theme=highcontrast&hide_border=true" alt="usamajamil67" />
+</p>
   
