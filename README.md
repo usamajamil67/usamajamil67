@@ -2,14 +2,17 @@
 <!--
 **usamajamil67/usamajamil67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td valign="center">
+      🎓 I am currently pursuing my **Bachelor's in Computer Science**.
+      🌱 I am currently learning **Laravel** and also interested in **AI**.
+      🎯 My Goal is to Contribute to as many **open source project** as possible.
+      ✨ I love to create different types of **contents**.
+<td >
+# this is my daily.dev card
+      <a href="https://app.daily.dev/usamajamil67" width="300" alt="Mr. Usama's Dev Card"/></a>
+    </td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </tr>
+  </table>
