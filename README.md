@@ -9,10 +9,5 @@
       🌱 I am currently learning **Laravel** and also interested in **AI**.
       🎯 My Goal is to Contribute to as many **open source project** as possible.
       ✨ I love to create different types of **contents**.
-<td >
-# this is my daily.dev card
-      <a href="https://app.daily.dev/usamajamil67" width="300" alt="Mr. Usama's Dev Card"/></a>
-    </td>
-
   </tr>
   </table>
